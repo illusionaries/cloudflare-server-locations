@@ -1,0 +1,29 @@
+{
+  "name": "cloudflare-server-locations",
+  "module": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "version": "0.0.1",
+  "keywords": ["cloudflare"],
+  "devDependencies": {
+    "@types/bun": "latest",
+    "cheerio": "^1.1.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "index.ts"
+  ],
+  "scripts": {
+    "update": "bun ./scripts/update.ts",
+    "build": "tsc --declaration --outDir dist index.ts"
+  }
+}
