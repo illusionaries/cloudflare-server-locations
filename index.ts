@@ -112,7 +112,6 @@ export const CloudflareServerLocations = {
   "PBH": "Thimphu, Bhutan",
   "XIY": "Baoji, China",
   "NQZ": "Astana, Kazakhstan",
-  "NNG": "Nanning, China",
   "KCH": "Kuching, Malaysia",
   "AKX": "Aktobe, Kazakhstan",
   "TEN": "Tongren, China",
