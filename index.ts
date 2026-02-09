@@ -165,7 +165,7 @@ export const CloudflareServerLocations = {
   "RIX": "Riga, Latvia",
   "FCO": "Rome, Italy",
   "LED": "Saint Petersburg, Russia",
-  "MLA": "Santa Venera, Malta",
+  "MLA": "Valletta, Malta",
   "SKP": "Skopje, North Macedonia",
   "SOF": "Sofia, Bulgaria",
   "ARN": "Stockholm, Sweden",
