@@ -116,7 +116,6 @@ export const CloudflareServerLocations = {
   "AKX": "Aktobe, Kazakhstan",
   "TEN": "Tongren, China",
   "HYN": "Taizhou, China",
-  "XNN": "Xining, China",
   "FRU": "Bishkek, Kyrgyzstan",
   "MLG": "Malang, Indonesia",
   "LHE": "Lahore, Pakistan",
