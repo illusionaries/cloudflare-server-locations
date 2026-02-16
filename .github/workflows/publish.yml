@@ -28,11 +28,11 @@ jobs:
       - run: bun install
 
       - name: Try update
-        run: touch index.ts && mv index.ts index.ts.bak && bun run update > index.ts
+        run: touch index.ts && mv index.ts index.bak.ts && bun run update > index.ts
 
       - id: diff-step
         continue-on-error: true
-        run: diff index.ts.bak index.ts
+        run: bun scripts/diff.ts
 
       - name: Build and test
         if: ${{ steps.diff-step.outcome == 'failure' }}
