@@ -122,6 +122,7 @@ export const CloudflareServerLocations = {
   "CTU": "Chengdu, China",
   "AGR": "Agra, India",
   "CJB": "Coimbatore, India",
+  "ACX": "Xingyi, China",
   "AMS": "Amsterdam, Netherlands",
   "ATH": "Athens, Greece",
   "BCN": "Barcelona, Spain",
