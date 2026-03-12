@@ -331,5 +331,6 @@ export const CloudflareServerLocations = {
   "SYD": "Sydney, NSW, Australia",
   "PPT": "Tahiti, French Polynesia",
   "SUV": "Suva, Fiji",
-  "HBA": "Hobart, Australia"
+  "HBA": "Hobart, Australia",
+  "WLG": "Wellington, New Zealand"
 } as const
