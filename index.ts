@@ -182,6 +182,7 @@ export const CloudflareServerLocations = {
   "WRO": "Wroclaw, Poland",
   "ZAG": "Zagreb, Croatia",
   "ZRH": "Zurich, Switzerland",
+  "LJU": "Ljubljana, Slovenia",
   "QWJ": "Americana, Brazil",
   "ARI": "Arica, Chile",
   "ASU": "Asunción, Paraguay",
