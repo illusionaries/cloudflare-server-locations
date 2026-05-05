@@ -242,7 +242,6 @@ export const CloudflareServerLocations = {
   "CGB": "Cuiaba, Brazil",
   "CLO": "Cali, Colombia",
   "SAP": "San Pedro Sula, Honduras",
-  "CCP": "Concepción, Chile",
   "AMM": "Amman, Jordan",
   "LLK": "Astara, Azerbaijan",
   "BGW": "Baghdad, Iraq",
