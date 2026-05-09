@@ -126,6 +126,7 @@ export const CloudflareServerLocations = {
   "BBI": "Bhubaneswar, India",
   "LYA": "Luoyang, China",
   "PNQ": "Pune, India",
+  "JRG": "Sambalpur, India",
   "AMS": "Amsterdam, Netherlands",
   "ATH": "Athens, Greece",
   "BCN": "Barcelona, Spain",
