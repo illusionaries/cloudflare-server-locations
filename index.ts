@@ -300,7 +300,6 @@ export const CloudflareServerLocations = {
   "ORF": "Norfolk, VA, United States",
   "OKC": "Oklahoma City, OK, United States",
   "OMA": "Omaha, NE, United States",
-  "YOW": "Ottawa, Canada",
   "PHL": "Philadelphia, United States",
   "PHX": "Phoenix, AZ, United States",
   "PIT": "Pittsburgh, PA, United States",
