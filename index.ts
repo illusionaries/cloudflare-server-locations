@@ -112,7 +112,6 @@ export const CloudflareServerLocations = {
   "CRK": "Tarlac City, Philippines",
   "PBH": "Thimphu, Bhutan",
   "XIY": "Baoji, China",
-  "NQZ": "Astana, Kazakhstan",
   "KCH": "Kuching, Malaysia",
   "AKX": "Aktobe, Kazakhstan",
   "TEN": "Tongren, China",
