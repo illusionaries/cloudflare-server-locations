@@ -66,7 +66,6 @@ export const CloudflareServerLocations = {
   "KHI": "Karachi, Pakistan",
   "KTM": "Kathmandu, Nepal",
   "CCU": "Kolkata, India",
-  "KJA": "Krasnoyarsk, Russia",
   "KUL": "Kuala Lumpur, Malaysia",
   "PKX": "Langfang, China",
   "MFM": "Macau",
