@@ -277,7 +277,6 @@ export const CloudflareServerLocations = {
   "AUS": "Austin, TX, United States",
   "BGR": "Bangor, ME, United States",
   "BOS": "Boston, MA, United States",
-  "BUF": "Buffalo, NY, United States",
   "YYC": "Calgary, AB, Canada",
   "CLT": "Charlotte, NC, United States",
   "ORD": "Chicago, IL, United States",
