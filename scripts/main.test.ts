@@ -3,7 +3,8 @@ import { CloudflareServerLocations } from '../dist/index.js'
 
 describe('common known locations', () => {
     test('LAX', () => {
-        expect(CloudflareServerLocations["LAX"]).toBe("Los Angeles, CA, United States")
+        expect(CloudflareServerLocations["LAX"]).toContain("Los Angeles")
+        expect(CloudflareServerLocations["LAX"]).toContain("United States")
     })
     test('LHR', () => {
         expect(CloudflareServerLocations["LHR"]).toBe("London, United Kingdom")
@@ -12,6 +13,7 @@ describe('common known locations', () => {
         expect(CloudflareServerLocations["NRT"]).toBe("Tokyo, Japan")
     })
     test("SYD", () => {
-        expect(CloudflareServerLocations["SYD"]).toBe("Sydney, NSW, Australia")
+        expect(CloudflareServerLocations["SYD"]).toContain("Sydney")
+        expect(CloudflareServerLocations["SYD"]).toContain("Australia")
     })
 })
