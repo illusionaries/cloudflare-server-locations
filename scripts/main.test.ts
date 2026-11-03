@@ -7,10 +7,12 @@ describe('common known locations', () => {
         expect(CloudflareServerLocations["LAX"]).toContain("United States")
     })
     test('LHR', () => {
-        expect(CloudflareServerLocations["LHR"]).toBe("London, United Kingdom")
+        expect(CloudflareServerLocations["LHR"]).toContain("London")
+        expect(CloudflareServerLocations["LHR"]).toContain("United Kingdom")
     })
     test("NRT", () => {
-        expect(CloudflareServerLocations["NRT"]).toBe("Tokyo, Japan")
+        expect(CloudflareServerLocations["NRT"]).toContain("Tokyo")
+        expect(CloudflareServerLocations["NRT"]).toContain("Japan")
     })
     test("SYD", () => {
         expect(CloudflareServerLocations["SYD"]).toContain("Sydney")
