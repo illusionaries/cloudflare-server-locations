@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "license": "MIT",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "keywords": [
     "cloudflare"
   ],

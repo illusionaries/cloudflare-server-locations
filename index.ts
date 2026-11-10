@@ -297,6 +297,7 @@ export const CloudflareServerLocations = {
   "OUA": "Ouagadougou, Burkina Faso",
   "MRU": "Port Louis, Mauritius",
   "TUN": "Tunis, Tunisia",
+  "FIH": "Kinshasa, Congo - Kinshasa",
   "CAI": "Cairo, Egypt",
   "WDH": "Windhoek, Namibia",
   "ASK": "Yamoussoukro, Côte d’Ivoire",
