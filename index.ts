@@ -275,6 +275,7 @@ export const CloudflareServerLocations = {
   "DYU": "Dushanbe, Tajikistan",
   "LUH": "Ludhiana, India",
   "JAI": "“Jaipur”, India",
+  "WUH": "Wuhan, China",
   "ACC": "Accra, Ghana",
   "ALG": "Algiers, Algeria",
   "AAE": "Annaba, Algeria",
