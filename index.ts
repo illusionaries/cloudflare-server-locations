@@ -276,6 +276,7 @@ export const CloudflareServerLocations = {
   "LUH": "Ludhiana, India",
   "JAI": "“Jaipur”, India",
   "WUH": "Wuhan, China",
+  "TEZ": "Nagaon, India",
   "ACC": "Accra, Ghana",
   "ALG": "Algiers, Algeria",
   "AAE": "Annaba, Algeria",
